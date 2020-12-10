@@ -1,0 +1,10 @@
+0, 1, 2, 3
+0 2 2 4
+2 0 1 2
+2 1 0 2
+4 2 2 0
+Este test está diseñado para probar la parte genética del algoritmo.
+Cuando el algoritmo del vecino más cercano termine debería escoger:
+	0->1->2->3	Costo: 9
+Pero el algorimo genético se dará cuenta de que es más corto utilizar:
+	0->2->3->1	Costo: 8

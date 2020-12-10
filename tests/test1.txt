@@ -1,0 +1,5 @@
+Ciudad A, Ciudad B, Ciudad C, Ciudad D
+0 2 1 5
+2 0 6 1
+1 6 0 5
+5 1 5 0
